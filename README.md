@@ -1,2 +1,2 @@
-# srinu
-srinu somepalli
+# konda
+konda sangireddy
